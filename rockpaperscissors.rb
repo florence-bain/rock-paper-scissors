@@ -14,4 +14,5 @@ def rockPaperScissorsResult(player1, player2)
   end
 end
 
-puts result('PAPER', 'ROCK')
+# display result
+puts rockPaperScissorsResult('PAPER', 'ROCK')
